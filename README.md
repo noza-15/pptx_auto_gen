@@ -75,9 +75,8 @@ YY/MM/DDまたはYY/M/Dの形式で入力．
 __例__
 
     dir,date,name,presenter,,
-    zemi01,2019/4/8,第1回合同定期ゼミ,田島 咲季,bao,hasegawa
-    zemi02,2019/4/15,第2回合同定期ゼミ,oku,葉 静浩,ishikawa
-    zemi03,2019/4/22,第1回通常定期ゼミ,inoue,usami,
+    zemi01,2019/4/8,第1回合同定期ゼミ,okuma,ono
+    zemi02,2019/4/15,第2回合同定期ゼミ,ono,okuma
 
 例の場合，1つ目のゼミに関しては`zemi01_190408`フォルダの中に`190408.pptx`が生成されます．
 
@@ -97,8 +96,10 @@ __例__
 __例__
 
     en,ja
-    nozomu.togawa,戸川 望
+    azusa.ono,小野 梓
     shigenobu.okuma,大隈 重信
+    ono,小野 梓
+    okuma,大隈 重信
 
 ### template.pptx
 スライドのもととなるpptxファイルです．
